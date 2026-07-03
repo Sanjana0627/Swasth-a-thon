@@ -1,0 +1,279 @@
+{
+  "warrior_luesjc": {
+    "name": "Warrior",
+    "baseline": {
+      "ts": "2026-03-24T10:46:55",
+      "date": "2026-03-24",
+      "iron_score": 50,
+      "level": 2,
+      "xp": 100,
+      "coins": 150,
+      "streak": 1,
+      "battle_wins": 4,
+      "badges": [],
+      "energy": null,
+      "scan_status": null,
+      "note": "daily login"
+    },
+    "history": [
+      {
+        "ts": "2026-03-24T10:46:55",
+        "date": "2026-03-24",
+        "iron_score": 50,
+        "level": 2,
+        "xp": 100,
+        "coins": 150,
+        "streak": 1,
+        "battle_wins": 4,
+        "badges": [],
+        "energy": null,
+        "scan_status": null,
+        "note": "daily login"
+      },
+      {
+        "ts": "2026-03-24T10:55:58",
+        "date": "2026-03-24",
+        "iron_score": 50,
+        "level": 2,
+        "xp": 100,
+        "coins": 150,
+        "streak": 1,
+        "battle_wins": 4,
+        "badges": [],
+        "energy": null,
+        "scan_status": null,
+        "note": "daily login"
+      },
+      {
+        "ts": "2026-03-24T10:56:31",
+        "date": "2026-03-24",
+        "iron_score": 50,
+        "level": 2,
+        "xp": 125,
+        "coins": 162,
+        "streak": 1,
+        "battle_wins": 4,
+        "badges": [],
+        "energy": null,
+        "scan_status": null,
+        "note": "quest: q7"
+      },
+      {
+        "ts": "2026-03-24T11:28:36",
+        "date": "2026-03-24",
+        "iron_score": 50,
+        "level": 2,
+        "xp": 125,
+        "coins": 162,
+        "streak": 1,
+        "battle_wins": 4,
+        "badges": [],
+        "energy": null,
+        "scan_status": null,
+        "note": "daily login"
+      },
+      {
+        "ts": "2026-03-24T11:28:59",
+        "date": "2026-03-24",
+        "iron_score": 65,
+        "level": 2,
+        "xp": 185,
+        "coins": 192,
+        "streak": 1,
+        "battle_wins": 4,
+        "badges": [
+          "first_scan"
+        ],
+        "energy": null,
+        "scan_status": "Mild Anemia",
+        "note": "ai scan"
+      },
+      {
+        "ts": "2026-03-24T11:29:51",
+        "date": "2026-03-24",
+        "iron_score": 65,
+        "level": 2,
+        "xp": 185,
+        "coins": 192,
+        "streak": 1,
+        "battle_wins": 4,
+        "badges": [
+          "first_scan"
+        ],
+        "energy": null,
+        "scan_status": null,
+        "note": "daily login"
+      },
+      {
+        "ts": "2026-03-24T11:30:40",
+        "date": "2026-03-24",
+        "iron_score": 95,
+        "level": 3,
+        "xp": 5,
+        "coins": 242,
+        "streak": 1,
+        "battle_wins": 4,
+        "badges": [
+          "first_scan",
+          "iron_hero"
+        ],
+        "energy": null,
+        "scan_status": null,
+        "note": "level up → 3"
+      },
+      {
+        "ts": "2026-03-24T11:30:40",
+        "date": "2026-03-24",
+        "iron_score": 95,
+        "level": 3,
+        "xp": 5,
+        "coins": 242,
+        "streak": 1,
+        "battle_wins": 4,
+        "badges": [
+          "first_scan",
+          "iron_hero"
+        ],
+        "energy": null,
+        "scan_status": "Healthy",
+        "note": "ai scan"
+      },
+      {
+        "ts": "2026-03-24T11:31:06",
+        "date": "2026-03-24",
+        "iron_score": 95,
+        "level": 3,
+        "xp": 5,
+        "coins": 242,
+        "streak": 1,
+        "battle_wins": 4,
+        "badges": [
+          "first_scan",
+          "iron_hero"
+        ],
+        "energy": null,
+        "scan_status": null,
+        "note": "daily login"
+      },
+      {
+        "ts": "2026-03-24T11:31:14",
+        "date": "2026-03-24",
+        "iron_score": 15,
+        "level": 3,
+        "xp": 20,
+        "coins": 249,
+        "streak": 1,
+        "battle_wins": 4,
+        "badges": [
+          "first_scan",
+          "iron_hero"
+        ],
+        "energy": null,
+        "scan_status": "Severe Anemia",
+        "note": "ai scan"
+      },
+      {
+        "ts": "2026-03-25T10:00:13",
+        "date": "2026-03-25",
+        "iron_score": 15,
+        "level": 3,
+        "xp": 60,
+        "coins": 269,
+        "streak": 2,
+        "battle_wins": 4,
+        "badges": [
+          "first_scan",
+          "iron_hero"
+        ],
+        "energy": null,
+        "scan_status": null,
+        "note": "daily login"
+      },
+      {
+        "ts": "2026-03-25T10:00:42",
+        "date": "2026-03-25",
+        "iron_score": 40,
+        "level": 3,
+        "xp": 95,
+        "coins": 286,
+        "streak": 2,
+        "battle_wins": 4,
+        "badges": [
+          "first_scan",
+          "iron_hero"
+        ],
+        "energy": null,
+        "scan_status": "Moderate Anemia",
+        "note": "ai scan"
+      },
+      {
+        "ts": "2026-03-25T10:10:26",
+        "date": "2026-03-25",
+        "iron_score": 40,
+        "level": 3,
+        "xp": 95,
+        "coins": 286,
+        "streak": 2,
+        "battle_wins": 4,
+        "badges": [
+          "first_scan",
+          "iron_hero"
+        ],
+        "energy": null,
+        "scan_status": null,
+        "note": "daily login"
+      },
+      {
+        "ts": "2026-03-25T10:12:06",
+        "date": "2026-03-25",
+        "iron_score": 65,
+        "level": 3,
+        "xp": 155,
+        "coins": 316,
+        "streak": 2,
+        "battle_wins": 4,
+        "badges": [
+          "first_scan",
+          "iron_hero"
+        ],
+        "energy": null,
+        "scan_status": "Mild Anemia",
+        "note": "ai scan"
+      },
+      {
+        "ts": "2026-03-25T10:12:17",
+        "date": "2026-03-25",
+        "iron_score": 65,
+        "level": 3,
+        "xp": 155,
+        "coins": 316,
+        "streak": 2,
+        "battle_wins": 4,
+        "badges": [
+          "first_scan",
+          "iron_hero"
+        ],
+        "energy": null,
+        "scan_status": null,
+        "note": "daily login"
+      },
+      {
+        "ts": "2026-03-25T10:12:21",
+        "date": "2026-03-25",
+        "iron_score": 65,
+        "level": 3,
+        "xp": 215,
+        "coins": 346,
+        "streak": 2,
+        "battle_wins": 4,
+        "badges": [
+          "first_scan",
+          "iron_hero"
+        ],
+        "energy": null,
+        "scan_status": "Mild Anemia",
+        "note": "ai scan"
+      }
+    ]
+  }
+}
